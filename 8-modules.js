@@ -1,0 +1,8 @@
+const king = require('./names')
+const sayHi=require('./5-util')
+//console.log(king)
+const data =require('./6-alternate')
+require('./7-mind')
+// sayHi('King')
+// sayHi(king.john)
+// sayHi(king.peter)

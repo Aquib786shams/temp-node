@@ -1,0 +1,18 @@
+{
+  "name": "aquib",
+  "version": "1.0.0",
+  "description": "amazing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aquib",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
